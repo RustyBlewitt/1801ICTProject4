@@ -10,9 +10,6 @@ Fire it up and enjoy.
 
 Java
 
-
-## Contributing
-
 ## Authors
 
 * **Rusty Blewitt** 
